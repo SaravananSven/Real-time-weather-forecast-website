@@ -1,1 +1,2 @@
 # Real-time-weather-forecast-website
+This project is a real-time weather forecast website that provides current weather data for any city entered by the user. By leveraging the OpenWeatherMap API, it delivers temperature, weather conditions, and dynamic icons based on the selected location. The website was developed with Django and features a clean, responsive interface for an optimal user experience.
